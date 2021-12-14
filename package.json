@@ -20,7 +20,7 @@
     "chart.js": "^2.9.3",
     "closest": "0.0.1",
     "dagre": "^0.8.5",
-    "date-fns": "^2.13.0",
+    "date-fns": "^2.26.0",
     "dotenv": "^8.2.0",
     "history": "^4.10.1",
     "lodash": "^4.17.15",
